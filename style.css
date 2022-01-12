@@ -73,3 +73,35 @@ body {
 }
 
 /* Main */
+
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+.info-top {
+    margin-top: 36px;
+    margin-bottom: 36px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    justify-self: center;
+    align-self: center;
+}
+
+.info {
+    width: 120px;
+}
+
+.info-container {
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 48px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.info img {
+    border-radius: 12px;
+    width: 120px;
+}
