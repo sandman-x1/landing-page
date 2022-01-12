@@ -1,5 +1,4 @@
 # landing-page
-# Test
 
 Image credits:
 
