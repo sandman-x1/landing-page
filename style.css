@@ -147,3 +147,40 @@ body {
     font-size: 18px;
     font-weight: bold;
 }
+
+/* Bottom */
+
+.bottom {
+    margin: 60px 160px;
+}
+
+.bottom-container {
+    background-color: #3882f6;
+    padding: 30px 60px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.action {
+    color: #f9faf8;
+    font-weight: bolder;
+    font-size: 22px;
+}
+
+.action-sub {
+    color: #E5e7eb;
+}
+
+.bottom button {
+    height: 32px;
+    width: 120px;
+    align-self: center;
+    background-color: #3882f6;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #E5e7eb;
+}
