@@ -81,9 +81,8 @@ body {
     flex-direction: column;
 }
 
-.info-top {
-    margin-top: 48px;
-    margin-bottom: 48px;
+.info-top { 
+    margin: 48px 0;
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
