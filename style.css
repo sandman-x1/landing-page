@@ -101,7 +101,7 @@ body {
 .info-container {
     margin-left: 120px;
     margin-right: 120px;
-    margin-bottom: 48px;
+    margin-bottom: 60px;
     display: flex;
     justify-content: space-around;
 }
@@ -117,3 +117,29 @@ body {
 
 /* Quote */
 
+.quote-section {
+    background-color: #E5e7eb;
+}
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 0 140px;
+}
+
+.quote {
+    margin-top: 80px;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.author {
+    margin-right: 36px;
+    margin-bottom: 60px;
+    align-self: flex-end;
+    font-size: 18px;
+    font-weight: bold;
+}
