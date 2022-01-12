@@ -17,6 +17,7 @@ body {
     justify-content: space-between;
     align-items: center;
     margin-bottom: 60px;
+    gap: 350px;
 }
 
 .logo {
@@ -37,6 +38,7 @@ body {
     justify-content: space-around;
     align-items: center;
     padding-bottom: 80px;
+    gap: 200px;
 }
 
 .header-text {
@@ -68,8 +70,8 @@ body {
 
 .header-top,
 .header-content {
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Main */
@@ -99,11 +101,12 @@ body {
 }
 
 .info-container {
-    margin-left: 120px;
-    margin-right: 120px;
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 60px;
     display: flex;
     justify-content: space-around;
+    gap: 42px;
 }
 
 .info img {
@@ -130,6 +133,8 @@ body {
 
 .quote {
     margin-top: 80px;
+    margin-left: 20px;
+    margin-right: 20px;
     font-size: 36px;
     font-weight: lighter;
     font-style: italic;
