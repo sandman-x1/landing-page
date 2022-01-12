@@ -90,7 +90,12 @@ body {
 }
 
 .info {
-    width: 120px;
+    width: 140px;
+}
+
+.text {
+    text-align: center;
+    color: rgb(39, 39, 39);
 }
 
 .info-container {
@@ -102,6 +107,13 @@ body {
 }
 
 .info img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 12px;
     border-radius: 12px;
     width: 120px;
 }
+
+/* Quote */
+
