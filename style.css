@@ -82,8 +82,8 @@ body {
 }
 
 .info-top {
-    margin-top: 36px;
-    margin-bottom: 36px;
+    margin-top: 48px;
+    margin-bottom: 48px;
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
@@ -103,7 +103,7 @@ body {
 .info-container {
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 60px;
+    margin-bottom: 80px;
     display: flex;
     justify-content: space-around;
     gap: 42px;
